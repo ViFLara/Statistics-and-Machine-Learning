@@ -1,3 +1,3 @@
 # pandas
 
-Statistics and Libraries Concepts in Python
+Statistics, Libraries Concepts and Mechine Learning in Python
